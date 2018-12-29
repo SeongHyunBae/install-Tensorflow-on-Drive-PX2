@@ -2,8 +2,8 @@
 
 Install tensorflow on NVIDIA DRIVE PX2(AutoChauffeur)  
 CUDA Version 9.0, CUDNN Version 7  
-(check cuda version by writing 'cat /usr/local/cuda/version.txt' in terminal) 
-(check cudnn version by writing 'cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2' in terminal)
+(check cuda version by writing 'cat /usr/local/cuda/version.txt' in terminal)  
+(check cudnn version by writing 'cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2' in terminal)  
 
 # Setup Environment
 export PATH=/usr/local/cuda/bin:$PATH  
