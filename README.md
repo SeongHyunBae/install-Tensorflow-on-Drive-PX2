@@ -3,15 +3,13 @@
 Install tensorflow on NVIDIA DRIVE PX2(AutoChauffeur)
 
 # Setup Environment
-export PATH=/usr/local/cuda/bin:$PATH
-
-export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
-
-export LD_LIBRARY_PATH=/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+export PATH=/usr/local/cuda/bin:$PATH\n
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH\n
+export LD_LIBRARY_PATH=/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH\n
 
 # Install pip
-- for python 2.7
-sudo apt-get install python-pip
+- for python 2.7\n
+sudo apt-get install python-pip\n
 
 - for python 3.6
 sudo apt-get install python-pip
