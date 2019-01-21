@@ -15,7 +15,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
 sudo apt-get install python-pip  
 
 - for python 3.6  
-sudo apt-get install python-pip  
+sudo apt-get install python3-pip  
 
 # Install tensorflow 1.9.0
 - for python 2.7  
