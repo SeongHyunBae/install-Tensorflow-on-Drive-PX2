@@ -38,3 +38,8 @@ pip3 install h5py
 And download file in here: https://nvidia.app.box.com/v/JP33-TF1-11-0-py35-wTRT  
 cd Downloads  
 pip3 install tensorflow-1.11.0-cp35-cp35m-linux_aarch64.whl
+
+# My build whl file
+you can download in here
+CUDA 9.0 (tf-1.9, 1.10), 9.2 (tf-1.9)
+https://drive.google.com/drive/folders/1q9i0yqKaEMFFgSLIZauNHIWT82UD7T4w?usp=sharing
